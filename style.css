@@ -1,0 +1,15 @@
+main {
+    min-height: calc(100vh - 160px);
+    background-image: url('fondo.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+h1 {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 10px; 
+    display: inline-block; 
+    margin: 0;
+}
+
